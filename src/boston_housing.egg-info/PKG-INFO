@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: boston_housing
+Version: 0.0.0
+Summary: A small python package for Real Estate app
+Home-page: https://github.com/salim928/END_TO_END_AI_REAL_ESTATE_PRED_APP
+Author: salim928
+Author-email: salimadams49@gmail.com
+Project-URL: Bug Tracker, https://github.com/salim928/END_TO_END_AI_REAL_ESTATE_PRED_APP/issues
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/salim928/END_TO_END_AI_REAL_ESTATE_PRICE_PRED_APP
+
+cd END_TO_END_AI_REAL_ESTATE_PRICE_PRED_APP
+

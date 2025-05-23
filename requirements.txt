@@ -6,5 +6,21 @@ requests>=2.28
 pyyaml>=6.0
 matplotlib>=3.5
 streamlit>=1.18    
-flask>=2.2         
+Flask
+Flask-Cors         
 pytest>=7.2
+requests>=2.28
+scipy
+mlflow==2.2.2
+ensure==1.0.2
+pyYAML 
+tqdm
+joblib
+python-box==6.0.2
+types-PyYAML 
+gdown
+-e .
+seaborn
+streamlit
+setuptools
+pytest

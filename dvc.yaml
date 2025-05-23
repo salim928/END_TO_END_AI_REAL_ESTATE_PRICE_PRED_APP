@@ -1,0 +1,10 @@
+stages:
+  ingest:
+    cmd: python src/boston_housing/pipeline/__init__.py
+    deps:
+      - src/boston_housing/pipeline/__init__.py
+      - src/boston_housing/config/__init__.py
+      - config/config.yaml
+      - params.yaml
+    outs:
+      - data/raw/boston.csv
